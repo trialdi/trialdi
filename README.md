@@ -6,15 +6,8 @@ Currently I am more learn a lot of programming world irregularly My other intere
 
 - 🔭 I'm currently studying at Gunadarma University
 - 🌱 I’m currently learning about Multi-Platform App
-- 💬 Ask me about ...
 - 📫 How to reach me: trialdi117@gmail.com
 - ⚡ Fun fact: currently doing scientific writing and will finish it soon
-
-### Tech Stack
-<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"/></a>
-<a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="100px" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"/></a>
-<br>
-<br>
 
 ### Github Statistic
 <p align="left">
