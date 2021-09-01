@@ -11,7 +11,7 @@ Currently I am more learn a lot of programming world irregularly My other intere
 - ⚡ Fun fact: currently doing scientific writing and will finish it soon
 
 ### Tech Stack
-<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"/></a>
+<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"/></a>
 <br>
 
 ### Github Statistic
