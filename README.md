@@ -11,7 +11,9 @@ Currently I am more learn a lot of programming world irregularly My other intere
 - ⚡ Fun fact: currently doing scientific writing and will finish it soon
 
 ### Tech Stack
-<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"/></a>
+<a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="100px" src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png"/></a>
+<a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="100px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle.png"/></a>
+<br>
 <br>
 
 ### Github Statistic
