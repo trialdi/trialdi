@@ -1,15 +1,15 @@
-### Hi! 👋 I'm Aldi.
+### Halo! 👋 Saya Aldi.
 
-I am someone who has an interest in the field networking, programming, and system creation and development information. Become someone who is competent in interest what I mentioned above is my dream. 
+Saya adalah seseorang yang memiliki ketertarikan pada bidang networking dan programming, serta pembuatan dan pengembangan sistem informasi. Menjadi seseorang yang berkompeten pada ketertarikan yang saya sebutkan diatas adalah impian saya. 
 
-Currently I am more learn a lot of programming world irregularly My other interest is to continue studying it.
+Saat ini saya lebih banyak belajar dunia pemrograman, tetapi tidak mengesampingkan ketertarikan saya dengan bidang lain untuk terus mempelajarinya.
 
-- 🔭 I'm currently studying at Gunadarma University
-- 🌱 I’m currently learning about Multi-Platform App
-- 📫 How to reach me: trialdi117@gmail.com
-- ⚡ Fun fact: currently doing scientific writing and will finish it soon
+- 🔭 Saat ini saya sedang kuliah di Universitas Gunadarma
+- 🌱 Saat ini saya sedang belajar tentang Aplikasi Multi-Platform (Flutter)
+- 📫 Cara menghubungi saya: trialdi117@gmail.com
+- ⚡ Fun fact: Sedang melakukan penulisan ilmiah dan akan segera menyelesaikannya
 
-### Github Statistic
+### Statistik Github
 <p align="left">
 <a href="https://github.com/trialdi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trialdi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
